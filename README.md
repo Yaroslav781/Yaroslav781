@@ -16,7 +16,7 @@
 - Integrated Google APIs, AWS S3, SendGrid, and more  
 
 
-### 🛠 Skills
+<h3 align="center">🛠 Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,react,nextjs,redux,sass,tailwind,materialui,vite,figma,redis,mysql,postgres,prisma,mongo,supabase,git,githubactions,firebase,gcp,aws,azure,vercel,docker,windows,ubuntu,postman,vscode,npm,nginx" />
