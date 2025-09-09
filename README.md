@@ -2,14 +2,12 @@
 
 ## 🚀 Full-Stack & Backend Engineer | JS & TS • NestJS • Node.js • React • PostgreSQL • MongoDB • AWS
 
----
 
 ### ✨ About Me
 - 🌍 I'm based in Lviv, Ukraine  
 - 💼 See my portfolio at [Notion](https://www.notion.so/Case-presentation-26991e4e2b4b80bab42ed13f3ae2c38d?source=copy_link)  
 - 🛠 I'm currently working on **WeNoCode**
 
-  ---
 
 ### 🏆 Experience
 - Built and optimized scalable web applications for startups and enterprise clients  
@@ -20,7 +18,7 @@
 ---
 
 ### 🛠 Skills
-<p align="left">
+<p align="middle">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -33,7 +31,7 @@
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
   
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
