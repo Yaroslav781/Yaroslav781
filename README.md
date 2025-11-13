@@ -5,7 +5,7 @@
 
 ### ✨ About Me
 - 🌍 I'm based in Ukraine  
-- 💼 See my portfolio at [Notion](https://www.notion.so/Case-presentation-26991e4e2b4b80bab42ed13f3ae2c38d?source=copy_link)  
+- 💼 See my portfolio at [Notion](https://www.notion.so/Yaroslav-Pelekhach-26b91e4e2b4b80f3a8ccd87ae899f324?source=copy_link)  
 - 🛠 I'm currently working on **WeNoCode**
 
 
